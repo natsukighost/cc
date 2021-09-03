@@ -1,19 +1,24 @@
 	
-0	
+[
+  {
 id	0
 description	"Clown"
 external_url	"https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961"
 image	"https://ipfs.io/ipfs/QmPgw8DyPNkAq19zcEGQZZxbYB9Bifr6Vca3j26SUEwCmG?filename=honkhonk.png"
 name	"Clown 0"
-1	
+  },
+  {
 id	1
 description	"Clown"
 external_url	"https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961"
 image	"https://ipfs.io/ipfs/QmPgw8DyPNkAq19zcEGQZZxbYB9Bifr6Vca3j26SUEwCmG?filename=honkhonk.png"
 name	"Clown 1"
-2	
+  },
+  {
 id	2
 description	"Clown"
 external_url	"https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961"
 image	"https://ipfs.io/ipfs/QmPgw8DyPNkAq19zcEGQZZxbYB9Bifr6Vca3j26SUEwCmG?filename=honkhonk.png"
 name	"Clown 2"
+  }
+]
