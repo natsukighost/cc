@@ -1,5 +1,5 @@
-	
-[
+{ 
+  "tokens": [
   {
     "id": 0,
     "description": "Clown",
@@ -21,4 +21,5 @@
     "image": "https://ipfs.io/ipfs/QmPgw8DyPNkAq19zcEGQZZxbYB9Bifr6Vca3j26SUEwCmG?filename=honkhonk.png",
     "name": "Clown 2"
   }
-]
+ ]
+}
